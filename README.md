@@ -3,7 +3,8 @@
 My objective with building this project was to learn the basics of React. Thanks to it's well-written docs it was a great experience.
 
 #
-![App Screenshot]()
+![Memory Legends](https://user-images.githubusercontent.com/67967688/222522849-cfb5c7f2-774f-4088-a42f-e01b5ec09097.PNG)
+
 
 
 
