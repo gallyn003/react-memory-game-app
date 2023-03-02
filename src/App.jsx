@@ -31,6 +31,7 @@ function App() {
 
 	// handle a choice
 	const handleChoice = (card) => {
+		if (card.id === cardOne?.id) return;
 		cardOne ? setCardTwo(card) : setCardOne(card);
 	};
 
